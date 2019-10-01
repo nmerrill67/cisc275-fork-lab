@@ -10,4 +10,6 @@ Nathaniel Merrill, 1st year PhD CISC student, favorite programming language is C
 
 John Doe, Senior ELEG student, favorite programming language is Bash
 
-Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
+Elaine Example, Junior MEEG student, favorite programming language is Excel Macros\
+
+Adam Johnson, Senior CISC-BA Major, favorite programming language is C++
