@@ -12,4 +12,4 @@ John Doe, Senior ELEG student, favorite programming language is Bash
 
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
 
-Nathaniel Merrill, Junior cisc student, favorite programming language is python
+Nathaniel King, Junior cisc student, favorite programming language is python
