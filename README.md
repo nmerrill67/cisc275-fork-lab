@@ -12,4 +12,5 @@ John Doe, Senior ELEG student, favorite programming language is Bash
 
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
 
+
 Theodor Wienert, Exchange Student, favorite programming language is MIPS assembly language 
