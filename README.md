@@ -5,6 +5,7 @@ CISC275 F19 students: Fork this repository, add your name, year and degree/major
 Please use two lines to separate in the README text.
 I will get us started:
 
+Sean McAuliffe, 3rd year Applied Mathematics major, favorite programming languae is Java
 
 Nathaniel Merrill, 1st year PhD CISC student, favorite programming language is C
 
