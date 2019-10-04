@@ -6,8 +6,4 @@ Please use two lines to separate in the README text.
 I will get us started:
 
 
-Nathaniel Merrill, 1st year PhD CISC student, favorite programming language is C
-
-John Doe, Senior ELEG student, favorite programming language is Bash
-
-Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
+Matt Peters, 5th year CISC student, favorite programming language is Ruby
