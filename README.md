@@ -6,7 +6,7 @@ Please use two lines to separate in the README text.
 I will get us started:
 
 
-Nathaniel Merrill, 1st year PhD CISC student, favorite programming language is C
+Nathaniel Merril, 1st year PhD CISC student, favorite programming language is C
 
 John Doe, Senior ELEG student, favorite programming language is Bash
 
